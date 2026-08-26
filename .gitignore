@@ -1,0 +1,16 @@
+# Original source files
+data/raw/*
+!data/raw/.gitkeep
+
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+~$*.xlsb
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.autosave
+
+# Local exports
+exports/
